@@ -36,8 +36,6 @@ Here is where you can showcase your projects. Use this section to highlight the 
 **Tech stack:** Java, C++  
 **Repository:** [Project Repository](https://github.com/Moey1407/PROJECT_REPO)
 
-_Add more projects as you complete them!_
-
 ## Get in Touch
 
 If you'd like to collaborate or have any questions, feel free to reach out:
