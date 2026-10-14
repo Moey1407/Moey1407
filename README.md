@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammed Yusuf Abed! :wave:
+# Hi there, I'm Muhammed Yusuf Abed! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Moey1407&style=for-the-badge)  
 
@@ -47,4 +47,3 @@ Thanks for visiting my profile!
 
 ---
 
-> **Tip:** To create a polished GitHub profile README, GitHub recommends making a public repository named after your username and adding a `README.md` file in it. You can then write your introduction and sections like the ones above. Start your README with a warm greeting and brief introduction, and provide a clear structure for your skills and projects【451407033801110†L82-L103】.
